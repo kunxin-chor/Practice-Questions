@@ -4,7 +4,15 @@
             "date": "23/2/2021",
             "time": "",
             "treatment": "",
-            "dentist_id": "123",
+            "patient": {
+                "id": "123",
+                "name":"Harry Potter"
+            },
+            "dentist": {
+                 "id": "3221"
+                 "name": "Dr. Mary Tan",
+                 
+            },
             "comments":""
         
 }
